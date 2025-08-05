@@ -1,0 +1,17 @@
+{
+  "executives": [
+    {"name": "Alice Johnson", "department": "Department of Finance"},
+    {"name": "Bob Smith", "department": "Department of Defence"}
+  ],
+  "nodes": [
+    {"id": "Department of Finance"},
+    {"id": "Vendor ABC Corp"}
+  ],
+  "links": [
+    {"source": "Department of Finance", "target": "Vendor ABC Corp"}
+  ],
+  "appointments": [
+    {"date": "2023-01-15", "name": "Alice Johnson", "role": "Director"},
+    {"date": "2023-05-20", "name": "Bob Smith", "role": "CIO"}
+  ]
+}
