@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Executive A",
+    "role": "SES Band 1",
+    "from": "Agriculture",
+    "to": "Health",
+    "date": "2019-11-28",
+    "source": "https://www.legislation.gov.au/Details/C2019G00361"
+  },
+  {
+    "name": "Executive B",
+    "role": "SES Band 1",
+    "from": "Agriculture",
+    "to": "Health",
+    "date": "2020-03-12",
+    "source": "https://www.legislation.gov.au/Details/C2020G00105"
+  }
+]
