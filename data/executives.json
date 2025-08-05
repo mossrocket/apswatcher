@@ -1,18 +1,82 @@
 [
   {
-    "name": "Executive A",
-    "role": "SES Band 1",
-    "from": "Agriculture",
-    "to": "Health",
-    "date": "2019-11-28",
-    "source": "https://www.legislation.gov.au/Details/C2019G00361"
+    "name": "Sarah Chen",
+    "role": "Deputy Secretary",
+    "from": "Department of Education",
+    "to": "Department of Infrastructure, Transport, Regional Development, Communications and the Arts",
+    "date": "2023-05-01",
+    "source": "https://www.legislation.gov.au/Details/C2023G00210"
   },
   {
-    "name": "Executive B",
-    "role": "SES Band 1",
-    "from": "Agriculture",
-    "to": "Health",
-    "date": "2020-03-12",
-    "source": "https://www.legislation.gov.au/Details/C2020G00105"
+    "name": "James Malik",
+    "role": "First Assistant Secretary",
+    "from": "Services Australia",
+    "to": "Department of Defence",
+    "date": "2022-11-15",
+    "source": "https://www.legislation.gov.au/Details/C2022G00405"
+  },
+  {
+    "name": "Linda Park",
+    "role": "Deputy Secretary",
+    "from": "Attorney-General's Department",
+    "to": "Department of Social Services",
+    "date": "2024-01-20",
+    "source": "https://www.legislation.gov.au/Details/C2024G00033"
+  },
+  {
+    "name": "Michael O'Keefe",
+    "role": "First Assistant Secretary",
+    "from": "Department of Foreign Affairs and Trade",
+    "to": "Department of Climate Change, Energy, the Environment and Water",
+    "date": "2023-08-10",
+    "source": "https://www.legislation.gov.au/Details/C2023G00315"
+  },
+  {
+    "name": "Amanda Wright",
+    "role": "Deputy Secretary",
+    "from": "Department of Health",
+    "to": "Services Australia",
+    "date": "2022-06-01",
+    "source": "https://www.legislation.gov.au/Details/C2022G00298"
+  },
+  {
+    "name": "David Tran",
+    "role": "First Assistant Secretary",
+    "from": "Department of Industry, Science and Resources",
+    "to": "Digital Transformation Agency",
+    "date": "2023-03-15",
+    "source": "https://www.legislation.gov.au/Details/C2023G00144"
+  },
+  {
+    "name": "Natalie Singh",
+    "role": "Deputy Secretary",
+    "from": "Treasury",
+    "to": "Department of Finance",
+    "date": "2024-02-01",
+    "source": "https://www.legislation.gov.au/Details/C2024G00088"
+  },
+  {
+    "name": "Ben Carter",
+    "role": "First Assistant Secretary",
+    "from": "Department of Agriculture, Fisheries and Forestry",
+    "to": "Department of Health and Aged Care",
+    "date": "2021-12-01",
+    "source": "https://www.legislation.gov.au/Details/C2021G00501"
+  },
+  {
+    "name": "Emma Liu",
+    "role": "Deputy Secretary",
+    "from": "Department of the Prime Minister and Cabinet",
+    "to": "National Indigenous Australians Agency",
+    "date": "2023-07-10",
+    "source": "https://www.legislation.gov.au/Details/C2023G00377"
+  },
+  {
+    "name": "Paul Nguyen",
+    "role": "First Assistant Secretary",
+    "from": "Department of Home Affairs",
+    "to": "Australian Border Force",
+    "date": "2022-09-20",
+    "source": "https://www.legislation.gov.au/Details/C2022G00488"
   }
 ]

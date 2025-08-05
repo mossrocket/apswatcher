@@ -1,20 +1,102 @@
 [
   {
-    "id": "accenture-c19-dashboard",
+    "id": "contract-001",
     "vendor": "Accenture",
-    "project": "C19 Dashboard",
-    "agency": "Department of Health",
-    "value": 28,
-    "date": "2021-01-15",
-    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=5A6F2E9C-A1C7-4E6C-A8F1-3E8E5D9C7E2B"
+    "project": "My Health Record – National Infrastructure Operator",
+    "agency": "Australian Digital Health Agency",
+    "value": 51.7,
+    "date": "2025-08-01",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=8B7C3D0A-B2D8-4F7E-A9E2-4F9D8E7C6F3A",
+    "procurement": "Limited Tender"
   },
   {
-    "id": "accenture-gpms",
+    "id": "contract-002",
+    "vendor": "Deloitte",
+    "project": "ATO Data Modernisation Program",
+    "agency": "Australian Taxation Office",
+    "value": 68,
+    "date": "2023-11-15",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=2C3D4E5F-6G7H-8I9J-0K1L-2M3N4O5P6Q",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-003",
+    "vendor": "PwC",
+    "project": "Defence Workforce Review and Reform",
+    "agency": "Department of Defence",
+    "value": 55,
+    "date": "2022-07-20",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=5R6S7T8U-9V0W-1X2Y-3Z4A-5B6C7D8E9F",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-004",
+    "vendor": "IBM",
+    "project": "Services Australia Cloud Migration",
+    "agency": "Services Australia",
+    "value": 92,
+    "date": "2021-03-10",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=4C5D6E7F-8G9H-0I1J-2K3L-4M5N6O7P8Q",
+    "procurement": "Open Tender"
+  },
+  {
+    "id": "contract-005",
+    "vendor": "KPMG",
+    "project": "Digital ID Trust Framework Assurance",
+    "agency": "Digital Transformation Agency",
+    "value": 48,
+    "date": "2024-02-28",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=6G7H8I9J-0K1L-2M3N-4O5P-6Q7R8S9T0U",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-006",
+    "vendor": "Deloitte",
+    "project": "Medicare Digital Transformation",
+    "agency": "Department of Health and Aged Care",
+    "value": 75,
+    "date": "2023-09-12",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=7V8W9X0Y-1Z2A-3B4C-5D6E-7F8G9H0I1J",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-007",
     "vendor": "Accenture",
-    "project": "GPMS",
-    "agency": "Department of Health",
+    "project": "Government Provider Management System (GPMS)",
+    "agency": "Department of Health and Aged Care",
     "value": 120,
     "date": "2021-04-01",
-    "source": "https://www.tenders.gov.au"
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=3M4N5P6Q-7R8S-9T0U-1V2W-3X4Y5Z6A7B",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-008",
+    "vendor": "PwC",
+    "project": "APS Workforce Data Platform",
+    "agency": "Australian Public Service Commission",
+    "value": 42,
+    "date": "2022-05-30",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=1F2E3D4C-5B6A-7C8B-9A0B-1C2D3E4F5A6B",
+    "procurement": "Limited Tender"
+  },
+  {
+    "id": "contract-009",
+    "vendor": "KPMG",
+    "project": "Cyber Security Maturity Assessment",
+    "agency": "Department of Finance",
+    "value": 38,
+    "date": "2023-06-18",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=9X8Y7Z6A-5B4C-3D2E-1F0G-9H8I7J6K5L",
+    "procurement": "Open Tender"
+  },
+  {
+    "id": "contract-010",
+    "vendor": "Deloitte",
+    "project": "Disability Support Pension Digital Review",
+    "agency": "Department of Social Services",
+    "value": 59,
+    "date": "2024-01-08",
+    "source": "https://www.tenders.gov.au/?event=public.ATM.view&AtmUUId=5R6S7T8U-9V0W-1X2Y-3Z4A-5B6C7D8E9F",
+    "procurement": "Limited Tender"
   }
 ]
