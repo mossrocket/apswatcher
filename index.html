@@ -1,47 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>APS Network Watch</title>
-  <link rel="stylesheet" href="css/style.css"/>
-  <script src="lib/d3.v7.min.js"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
-  [role="button"] { cursor: pointer; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APS Network Watch</title>
+    <link rel="stylesheet" href="styles.css"> <!-- If you have a stylesheet -->
+    <!-- Load D3.js BEFORE your app.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <header class="header">
-      <h1>APS Network Watch</h1>
-      <p>Public data on executive movement, vendor contracts, and institutional patterns in the Australian Public Service.</p>
+    <header>
+        <h1>APS Network Watch</h1>
+        <p>Public data on executive movement, vendor contracts, and institutional patterns in the Australian Public Service.</p>
     </header>
 
-    <section>
-      <h2>🔍 Search</h2>
-      <input type="text" id="search-input" placeholder="e.g., Vendor, Department, Year" />
-      <button onclick="searchData()">Search</button>
-      <div id="results">Enter a term to begin.</div>
-    </section>
+    <main>
+        <section id="search-section">
+            <h2>🔍 Search</h2>
+            <input type="text" id="search-input" placeholder="Search executives...">
+            <div id="search-results"></div>
+        </section>
 
-    <section>
-      <h2>🕸️ Network Graph</h2>
-      <div id="network">Loading...</div>
-    </section>
+        <section id="graph-section">
+            <h2>🌐 Network Graph</h2>
+            <div id="network-graph"></div> <!-- This ID is used in app.js -->
+        </section>
 
-    <section>
-      <h2>📅 Timeline</h2>
-      <div id="timeline">Loading...</div>
-    </section>
+        <section id="timeline-section">
+            <h2>📅 Timeline</h2>
+            <div id="timeline"></div> <!-- This ID is used in app.js -->
+        </section>
+    </main>
 
     <footer>
-      <p>Data from <a href="https://www.legislation.gov.au">Commonwealth Gazette</a>, <a href="https://www.tenders.gov.au">AusTender</a>, and <a href="https://www.aph.gov.au">Senate Estimates</a>.</p>
-      <p>No personal data collected. No tracking. <a href="https://designsystem.gov.au">Australian Government Design System</a>.</p>
+        <p>Data sources: Commonwealth Gazette, AusTender, Senate Estimates</p>
     </footer>
-  </div>
 
-  <script src="js/app.js"></script>
+    <!-- Load your main application script AFTER the body elements are defined -->
+    <script src="app.js"></script>
 </body>
 </html>
